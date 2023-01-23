@@ -4,8 +4,11 @@
 
 The only version supported is the `release` branch.
 
+## You can contact me on Telegram 
+<https://t.me/Blackspid3r9>
+
 ## Reporting a Vulnerability
-Please send us this detailed description to [security@decentraland.org](mailto:security@decentraland.org). Include an ethereum address that you control in order for the bounty to be awarded.
+Please send us this detailed description to [arash.dolati.m@live.com](mailto:arash.dolati.m@live.com). Include an ethereum address that you control in order for the bounty to be awarded.
 
 Such report should include:
 * Conditions for the bug to be triggered
